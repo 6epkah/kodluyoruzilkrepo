@@ -29,4 +29,4 @@ Pull requestler kabul edilir. Büyük değişiklikler için lütfen önce neyi d
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
-![görsel](repo.png)
+![gorsel](odev.png)
